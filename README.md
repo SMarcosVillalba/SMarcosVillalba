@@ -1,7 +1,9 @@
 # 👋 Bienvenido, mi nombre es Sergio Marcos
 ### Esto es un repositorio dedicado a la creacion de aplicaciones, tanto para movil como para web , dirigido por un chico amante de la programación, si te pasas por alguno de mis proyectos  corres el riesgo de caer en mi locura. Nos vemos!!!
 
-![Ordenadores-Sobremesa-02jpg](https://user-images.githubusercontent.com/78851467/201137172-c55e3a7b-2546-47c2-b0e2-d700cea5a374.jpg)
+![programacion-2-e1551291144973](https://user-images.githubusercontent.com/78851467/201143803-b1083204-9ee5-4b2a-b975-dca71fbce5fc.jpg)
+
+
 
 ## Skills:
 ![Html5](https://img.shields.io/badge/Html-3DDC84?style=for-the-badge&logo=Html5&logoColor=white&labelColor=101010)</br>
