@@ -3,3 +3,5 @@ Esto es un repositorio dedicado a la creacion de aplicaciones, tanto para movil 
 ## Donde puedes encontrarme
 
 - [Linkedin](https://www.linkedin.com/in/sergio-marcos-92599023b/)
+
+![Ordenadores-Sobremesa-02jpg](https://user-images.githubusercontent.com/78851467/201137172-c55e3a7b-2546-47c2-b0e2-d700cea5a374.jpg)
