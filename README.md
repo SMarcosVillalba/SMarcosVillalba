@@ -2,4 +2,4 @@ Esto es un repositorio dedicado a la creacion de aplicaciones, tanto para movil 
 
 ## Donde puedes encontrarme
 
-- [Linkedin] (https://www.linkedin.com/in/sergio-marcos-92599023b/)
+- [Linkedin](https://www.linkedin.com/in/sergio-marcos-92599023b/)
