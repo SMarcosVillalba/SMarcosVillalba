@@ -10,6 +10,8 @@
 ![CSS3](https://img.shields.io/badge/css3-3DDC84?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=blue)</br>
 ![Java Script](https://img.shields.io/badge/JavaScript-3DDC84?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=101010)</br>
 ![Java](https://img.shields.io/badge/java-3DDC84?style=for-the-badge&logo=Java11&logoColor=white&labelColor=blue)</br>
+![WordPress](https://img.shields.io/badge/WordPress-3DDC84?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)</br>
+![Angular](https://img.shields.io/badge/angular-3DDC84?style=for-the-badge&logo=Angular11&logoColor=white&labelColor=blue)</br>
 ## Donde puedes encontrarme
 
 - [Linkedin](https://www.linkedin.com/in/sergio-marcos-92599023b/)
