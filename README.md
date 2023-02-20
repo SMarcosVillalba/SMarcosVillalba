@@ -17,7 +17,7 @@ Me encanta todo el proceso de desarrollo de sitios web creativos.Aqui podras enc
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a><br>
   
 
-## 💼 Technical Skills
+## 💼 Habilidades técnicas
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
@@ -39,7 +39,7 @@ Me encanta todo el proceso de desarrollo de sitios web creativos.Aqui podras enc
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 
-## 📈 GitHub Stats 
+## 📈 Estadísticas de GitHub
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 
