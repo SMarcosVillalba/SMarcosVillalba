@@ -1,7 +1,7 @@
 # 👋 Bienvenido, mi nombre es Sergio Marcos
 ### Esto es un repositorio dedicado a la creacion de aplicaciones, tanto para movil como para web , dirigido por un chico amante de la programación, si te pasas por alguno de mis proyectos  corres el riesgo de caer en mi locura. Nos vemos!!!
 
-![descarga](https://user-images.githubusercontent.com/78851467/220112320-59fe2833-ee2a-40cd-a5c6-8c6ef2541862.png)
+<img style="width:1000px" src="https://user-images.githubusercontent.com/78851467/220112320-59fe2833-ee2a-40cd-a5c6-8c6ef2541862.png">
 
 
 
