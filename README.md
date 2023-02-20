@@ -38,7 +38,7 @@ Me encanta todo el proceso de desarrollo de sitios web creativos.Aqui podras enc
 
 ## 📈 Estadísticas de GitHub
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github.com/SMarcosVillalba)](https://github.com/yushi1007)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/SMarcosVillalba)
 
