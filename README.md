@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Bienvenid@ 👋
 </h3>
 
 <h2 align="center">
-Full Developer 💻,y diseñador de paginas web 🎨!
+Full Developer 💻 y diseñador de paginas web 🎨!
 </h2> 
 
 Me encanta todo el proceso de desarrollo de sitios web creativos.Aqui podras encontrar todo tipo de proyectos tanto de back como de front-end.
@@ -15,8 +15,6 @@ Me encanta todo el proceso de desarrollo de sitios web creativos.Aqui podras enc
 ### 🤝 Encuentrame en :
 
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a><br>
-
-- 💬 Si tienes alguna pregunta contactame a traves de smarcosvillalba@gmail.com
   
 
 ## 💼 Technical Skills
